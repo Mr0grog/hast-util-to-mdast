@@ -63,3 +63,7 @@ Quuux.
 * [ ] India
 
 * [ ] Juliet
+
+* [ ] **Kilo**
+
+* [ ] ***Lima***
